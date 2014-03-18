@@ -1,5 +1,5 @@
 <?php
 
-echo "student sphere test Cluster";
+echo "student sphere test2 Cluster";
 
 ?>
